@@ -30,7 +30,7 @@ jobs:
 
   beta_apk:
     name: Upload Android Beta to Firebase App Distribution
-    needs: [build_apk]
+    needs: [flutter_test]
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v1
