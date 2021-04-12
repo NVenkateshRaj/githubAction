@@ -24,8 +24,8 @@ jobs:
       - run: flutter build apk
       - uses: actions/upload-artifact@master
         with:
-          name: apk-release
-          path: build/app/outputs/bundle/release/app-release.apk
+          name: app-release.apk
+          path: build/app/outputs/bundle/release
 
 
   beta_apk:
