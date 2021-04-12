@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "960719311966",
+    "firebase_url": "https://auto-mailer-6a32d-default-rtdb.firebaseio.com",
+    "project_id": "auto-mailer-6a32d",
+    "storage_bucket": "auto-mailer-6a32d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960719311966:android:91cf63fe67e007937490cf",
+        "android_client_info": {
+          "package_name": "vgts.com.githubaction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX7HrXc9BKlGHJfXnwRdWXcy6UXPg6Mrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
